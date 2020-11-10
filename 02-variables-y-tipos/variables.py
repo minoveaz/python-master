@@ -33,3 +33,4 @@ Nacionalidad = "Colombiano"
 print( nombre + " " + apellidos + " es " + Nacionalidad)
 print(f"{nombre} {apellidos} es {Nacionalidad}")
 print( "Hola me llamo {} {} y mi nacionalidad es: {}".format(nombre, apellidos, Nacionalidad))
+
